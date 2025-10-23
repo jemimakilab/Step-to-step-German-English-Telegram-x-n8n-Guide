@@ -10,6 +10,10 @@ Für weitere High-End n8n Templates: https://www.skool.com/robonuggets/about?ref
 
 Für mehr n8n Content & KI-Content folge meinem YouTube Kanal: https://www.youtube.com/@bildgenieai
 
+
+
+
+
 🇬🇧 ENGLISH VERSION
 This is a step-by-step guide (NO TEMPLATE) for my video https://youtu.be/EdkoknM26rU.
 
